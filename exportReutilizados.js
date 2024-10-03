@@ -9,3 +9,5 @@ const tickConfig = {
 }
 
 export { getCSS, tickConfig }
+
+(common)
